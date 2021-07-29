@@ -1,0 +1,34 @@
+.card-category {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.card-category h1 {
+    color: rgb(221, 211, 211);
+    text-shadow: 5px 5px 10px #575F7D;
+}
+
+.card-category p {
+    color: rgb(245, 241, 241);
+    opacity: .7;
+    font-size: 20px;
+}
+
+.btn-one {
+  display: inline-block;
+  background-color: #9da19f;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+.btn-one:hover {
+  opacity: 0.9
+}
